@@ -108,7 +108,14 @@ Used to analyze the prediction results of the Support Vector Machine (SVM) model
 
 ![Pickup by Hour](Confusion_Matrix.png)
 
-Accuracy Score
-Precision
-Recall
-F1-Score
+2. Evaluation
+
+![Pickup by Hour](Confusion_Matrix.png)
+
+-Accuracy Score
+
+-Precision
+
+-Recall
+
+-F1-Score
