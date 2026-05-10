@@ -46,6 +46,8 @@ The dataset includes the following features:
 
 The dataset was imported and analyzed to understand the structure, attributes, and target labels.
 
+![Pickup by Hour](monthly_charges_Data Collection.png)
+
 -Data Preprocessing
 
 Data preprocessing was performed to ensure the dataset quality before model training:
