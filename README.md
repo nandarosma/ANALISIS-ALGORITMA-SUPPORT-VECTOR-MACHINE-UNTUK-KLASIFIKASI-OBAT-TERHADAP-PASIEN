@@ -114,8 +114,22 @@ Used to analyze the prediction results of the Support Vector Machine (SVM) model
 
 -Accuracy Score
 
+Measures the overall performance of the model. The SVM model achieved 100% accuracy on the testing dataset
+
 -Precision
+
+Measures the correctness of predicted drug classifications. The model achieved a precision score of 100%
 
 -Recall
 
+Measures the model’s ability to correctly identify all actual drug categories. The recall result reached 100%
+
 -F1-Score
+
+Evaluates the balance between precision and recall. The model achieved an F1-score of 100%.
+
+# Results and Insights
+
+The Support Vector Machine (SVM) model achieved 100% accuracy on the testing dataset and successfully classified all drug categories without prediction errors.
+
+The results indicate that SVM is highly effective for medical data classification tasks and has strong potential for supporting healthcare decision-making systems through accurate drug recommendation analysis.
