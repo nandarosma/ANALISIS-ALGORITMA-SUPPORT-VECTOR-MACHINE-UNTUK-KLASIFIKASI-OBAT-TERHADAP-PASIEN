@@ -72,17 +72,20 @@ Testing Data: 20%
 
 To support the research methodology, this study also applied the Slovin Formula to estimate the recommended minimum sample size for analysis.​
 
-![Pickup by Hour](Data_Transformation.png)
+![Pickup by Hour](Rumus_Slovin.png)
 
 Where:
 
 n = Minimum sample size
+
 N = Population size
+
 e = Margin of error
 
 Using:
 
 Population size (N) = 278,000,000
+
 Margin of error (e) = 5% or 0.05
 
 The calculation result indicates that the recommended minimum sample size is approximately 400 data samples.
