@@ -61,7 +61,7 @@ Data preprocessing was performed to ensure the dataset quality before model trai
 
 Categorical features such as gender, blood pressure, and cholesterol level were transformed into numerical values using Label Encoding.
 
-![Pickup by Hour](Data_Collection.png)
+![Pickup by Hour](Data_Transformation.png)
 
 -Train-Test Split
 
