@@ -102,7 +102,12 @@ SVM was selected because of its strong performance in classification tasks and i
 
 The model performance was evaluated using:
 
-Confusion Matrix
+1. Confusion Matrix
+
+Used to analyze the prediction results of the Support Vector Machine (SVM) model on the testing data and compare actual and predicted drug classifications
+
+![Pickup by Hour](Rumus_Slovin.png)
+
 Accuracy Score
 Precision
 Recall
