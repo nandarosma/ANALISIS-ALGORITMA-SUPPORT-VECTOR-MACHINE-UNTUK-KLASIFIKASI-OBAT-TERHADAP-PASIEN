@@ -106,7 +106,7 @@ The model performance was evaluated using:
 
 Used to analyze the prediction results of the Support Vector Machine (SVM) model on the testing data and compare actual and predicted drug classifications
 
-![Pickup by Hour](Rumus_Slovin.png)
+![Pickup by Hour](Confusion_Matrix.png)
 
 Accuracy Score
 Precision
