@@ -110,7 +110,7 @@ Used to analyze the prediction results of the Support Vector Machine (SVM) model
 
 2. Evaluation
 
-![Pickup by Hour](Confusion_Matrix.png)
+![Pickup by Hour](Evaluation.png)
 
 -Accuracy Score
 
