@@ -52,14 +52,16 @@ The dataset was imported and analyzed to understand the structure, attributes, a
 
 Data preprocessing was performed to ensure the dataset quality before model training:
 
-Checking missing values
-Removing duplicated data
-Data cleaning
-Feature preparation
+1. Checking missing values
+2. Removing duplicated data
+3. Data cleaning
+4. Feature preparation
 
 -Data Transformation
 
 Categorical features such as gender, blood pressure, and cholesterol level were transformed into numerical values using Label Encoding.
+
+![Pickup by Hour](Data_Collection.png)
 
 -Train-Test Split
 
