@@ -46,7 +46,7 @@ The dataset includes the following features:
 
 The dataset was imported and analyzed to understand the structure, attributes, and target labels.
 
-![Pickup by Hour](monthly_charges_Data_Collection.png)
+![Pickup by Hour](Data_Collection.png)
 
 -Data Preprocessing
 
