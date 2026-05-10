@@ -7,7 +7,11 @@ The model analyzes several medical attributes such as age, gender, blood pressur
 
 This project was developed using Python and Google Colab as part of a research study in the field of Artificial Intelligence and Healthcare.
 
+-Research Publication
 
+This project has been published in the Journal of Information and Technology (JIDT) 2025.
 
+Publication Title:
+Precision Medicine Through Support Vector Machines: Analyzing Patient Data for Improved Drug Classification
 
 Untuk Jurnalnya: https://jidt.org/jidt/article/view/627
