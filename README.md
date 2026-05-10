@@ -14,4 +14,6 @@ This project has been published in the Journal of Information and Technology (JI
 Publication Title:
 Precision Medicine Through Support Vector Machines: Analyzing Patient Data for Improved Drug Classification
 
-Untuk Jurnalnya: https://jidt.org/jidt/article/view/627
+https://jidt.org/jidt/article/view/627
+
+=
