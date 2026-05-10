@@ -67,10 +67,27 @@ Categorical features such as gender, blood pressure, and cholesterol level were 
 
 The dataset was divided into:
 
-80% training data
-20% testing data
+Training Data: 80%
+Testing Data: 20%
 
-This step helps evaluate the model performance on unseen data.
+To support the research methodology, this study also applied the Slovin Formula to estimate the recommended minimum sample size for analysis.​
+
+![Pickup by Hour](Data_Transformation.png)
+
+Where:
+
+n = Minimum sample size
+N = Population size
+e = Margin of error
+
+Using:
+
+Population size (N) = 278,000,000
+Margin of error (e) = 5% or 0.05
+
+The calculation result indicates that the recommended minimum sample size is approximately 400 data samples.
+
+Although this project used 200 patient records from a GitHub dataset, the data was still sufficient to demonstrate the implementation and evaluation of the Support Vector Machine (SVM) algorithm for drug classification tasks.
 
 -Model Training
 
