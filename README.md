@@ -1,4 +1,13 @@
 # Analisis Algoritma Support Vector Machine Untuk Klasifikasi Obat Terhadap Pasien
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=900&lines=💊+Support+Vector+Machine+Drug+Classification;🧠+AI+for+Healthcare+Systems;📊+Precision+Medicine+Through+Machine+Learning;⚡+Python+%2B+Scikit-Learn+%2B+Google+Colab">
+</p>
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/2966/2966487.png" width="180">
+</p>
+
 -Project Overview
 
 This project implements a Machine Learning model using the Support Vector Machine (SVM) algorithm to classify drug types based on patient medical data. The system is designed to support healthcare decision-making by predicting the most appropriate drug category for patients using data-driven analysis.
@@ -133,11 +142,3 @@ Evaluates the balance between precision and recall. The model achieved an F1-sco
 The Support Vector Machine (SVM) model achieved 100% accuracy on the testing dataset and successfully classified all drug categories without prediction errors.
 
 The results indicate that SVM is highly effective for medical data classification tasks and has strong potential for supporting healthcare decision-making systems through accurate drug recommendation analysis.
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=900&lines=💊+Support+Vector+Machine+Drug+Classification;🧠+AI+for+Healthcare+Systems;📊+Precision+Medicine+Through+Machine+Learning;⚡+Python+%2B+Scikit-Learn+%2B+Google+Colab">
-</p>
-
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2966/2966487.png" width="180">
-</p>>
